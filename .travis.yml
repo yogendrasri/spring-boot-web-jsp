@@ -1,2 +1,2 @@
 language: java
-script: mvn deploy -B
+script: mvn install -B
